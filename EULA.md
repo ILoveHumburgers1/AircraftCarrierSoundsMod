@@ -126,9 +126,8 @@ Updated versions will replace previous versions. Continued use of the Software c
 CONTACT INFORMATION
 -
 For questions regarding this Agreement, you may contact the Licensor via:
-
-Email: ILoveHumburgers1@inbox.ru
-Platform/Community: (Discord)[https://discord.gg/FeNBeA5ng8]
+- Email: ILoveHumburgers1@inbox.ru
+- Platform/Community: [Discord](https://discord.gg/FeNBeA5ng8)
 
 ENTIRE AGREEMENT
 -
