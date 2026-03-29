@@ -1,5 +1,5 @@
-END USER LICENSE AGREEMENT (EULA)
--
+# END USER LICENSE AGREEMENT (EULA)
+
 Last Updated: March 29, 2026 (29.03.2026)
 
 This End User License Agreement ("Agreement") is a legal agreement between you ("User", "You") and the creator of the software ("Licensor", "We", "Us"), governing your use of the software described below.
